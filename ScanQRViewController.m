@@ -31,12 +31,9 @@
     [self.view addSubview:_line];
     
     timer = [NSTimer scheduledTimerWithTimeInterval:.02 target:self selector:@selector(animation1) userInfo:nil repeats:YES];
-    
-    
-    
-    
 }
--(void)animation1
+
+- (void)animation1
 {
     if (upOrdown == NO) {
         num ++;

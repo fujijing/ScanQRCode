@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F9CD787A-E0CD-4A9C-909E-2DD981AF24EC</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0A873B9BAD4D710250EC12BEE5D530F0B707CFEF</key>
+		<string>https://github.com/fujijing/scanQRcode.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0A873B9BAD4D710250EC12BEE5D530F0B707CFEF</key>
+		<string>ScanQRCode/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fujijing/scanQRcode.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0A873B9BAD4D710250EC12BEE5D530F0B707CFEF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0A873B9BAD4D710250EC12BEE5D530F0B707CFEF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ScanQRCode</string>
+		</dict>
+	</array>
+</dict>
+</plist>
